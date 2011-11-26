@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">MIUI İstatistikleri</string>
+    <string name="main_title">Anonim Kullanım İstatistikleri</string>
+    <string name="main_desc">Bu sizin benzersiz MIUI yüklemenize dair, MIUI.us geliştiricilerine yardımcı olacak bilgileri toplamalarına olanak sağlar. Bilgiler benzersiz bir tanımlayıcı içerir, bu sizin güvenliğinizi korumak için yapılmaktadır. Bahsedilen bilgiler telefon türü, yazılım sürümü gibi bilgilerdir. Veri telefon her başladığında gönderilir, gönderilen veri örneğine bakmak için Verileri Önizle\'i tıklayın.</string>
+    <string name="main_optin">Raporlamayı Aktif Et</string>
+    <string name="main_btn_preview">Verileri Önizle</string>
+    <string name="main_btn_save">Tercihleri Kaydet</string>
+    <string name="main_show_stats">İstatistikleri Gör</string>
+    <string name="preview_title">Veri Gönderim Önizlemesi</string>
+    <string name="preview_id_lbl">Benzersiz Kimlik</string>
+    <string name="preview_device_lbl">Aygıt</string>
+    <string name="preview_version_lbl">Sürüm</string>
+    <string name="preview_done_btn">Tamam</string>
+    <string name="preview_country_lbl">Ülke</string>
+    <string name="preview_carrier_lbl">Şebeke</string>
+    <string name="notification_ticker">Kayıtlı istatistikler-In</string>
+    <string name="notification_title">MIUI.US İstatistikleri</string>
+    <string name="notification_desc">Anonim istatistikleri aktif/deaktif et</string>
+    <string name="main_link">&lt;a href=http://miui.us/forums/content.php?83-MIUIStats-What-it-is-and-why-you-should-opt-in&gt;Daha Fazlası&lt;/a&gt;</string>
+</resources>
