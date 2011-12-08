@@ -91,6 +91,7 @@
     <string name="sum_cfnrc_enabled">{0} a yönlendir</string>
     <string name="sum_cfnrc_disabled">Devre dışı</string>
     <string name="disable_cfnrc_forbidden">Operatörünüz ulaşılamadığında yönlendirme işlemini desteklemiyor.</string>
+    <string name="disable_all_cf">Tüm yönlendirmeleri iptal et</string>
     <string name="error_updating_title">Çağrı ayarları hatası</string>
     <string name="reading_settings">Ayarlar Okunuyor...</string>
     <string name="updating_settings">Ayarlar güncelleniyor...</string>
@@ -515,6 +516,7 @@
     <string name="voice_quality_ui_values_crisp">Canlı</string>
     <string name="voice_quality_ui_values_bright">Parlak</string>
     <string name="prefered_network_type_pref_entries_3g_prefered">3G öncelikli</string>
+    <string name="prefered_network_type_pref_entries_auto">Otomatik</string>
     <string name="prefered_network_type_pref_entries_only_2g">Sadece 2G (Güç tasarrufu)</string>
     <string name="prefered_network_type_pref_entries_only_3g">Sadece 3G</string>
     <string name="pin_progress_set_icc_lock">Setting icc lock state…</string>
