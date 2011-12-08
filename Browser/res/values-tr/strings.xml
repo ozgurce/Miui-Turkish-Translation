@@ -287,5 +287,5 @@
     <string name="notification_filename_separator">,\u0020</string>
     <string name="notification_filename_extras">\u0020ve %d download</string>
     <string name="notification_download_complete">İndirme Tamamlandı</string>
-    <string name="notification_download_failed">indirirken sorun oluştu</string>
+    <string name="notification_download_failed">indirme başarısız</string>
 </resources>
