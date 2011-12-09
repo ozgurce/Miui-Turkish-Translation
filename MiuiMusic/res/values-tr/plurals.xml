@@ -19,4 +19,7 @@
         <item quantity="other">%d şarkı favori listesine eklendi.</item>
         <item quantity="one">\u0020 şarkı favori listesine ekledi.</item>
     </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">Toplam %1$d şarkı, %2$d tanesi önce</item>
+    </plurals>
 </resources>
