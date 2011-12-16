@@ -1464,5 +1464,4 @@
     <string name="pref_volume_category_title">Ses</string>
     <string name="pref_volume_wake_title">Ses tuşlarıyla uyanma</string>
     <string name="pref_volume_wake_summary">Ses açma/kısma tuşları telefonu uyandırır. Güç tuşuna basmanın zor olduğu cihazlar için geliştirilmiştir.</string>
-    <string name="master_clear_final_button_text">Herşeyi sil</string>
 </resources>

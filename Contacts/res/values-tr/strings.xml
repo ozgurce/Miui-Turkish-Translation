@@ -169,6 +169,7 @@
     <string name="dialog_import_export">Kişileri içe/dışa aktar</string>
     <string name="menu_share">Paylaş</string>
     <string name="menu_sendToDesktop">Masaüstüne gönder</string>
+    <string name="copy_number">Numarayı kopyala</string>
     <string name="share_via">Kişileri şununla paylaş</string>
     <string name="share_error">Bu kişi paylaşılamaz.</string>
     <string name="nameLabelsGroup">Ad</string>

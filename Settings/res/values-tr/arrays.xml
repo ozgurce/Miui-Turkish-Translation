@@ -560,22 +560,4 @@
         <item>80</item>
         <item>90</item>
     </string-array>
-       <string-array name="overscroll_mode_entries">
-        <item>Daima Esnek</item>
-        <item>İçerik dolu ise esnek</item>
-        <item>Esneklik yok</item>
-    </string-array>
-    <string-array name="overscroll_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="menu_style_entries">
-        <item>Tablo Görünümü</item>
-        <item>Liste Görünümü</item>
-    </string-array>
-    <string-array name="menu_style_values">
-        <item>0</item>
-        <item>3</item>
-    </string-array>
 </resources>

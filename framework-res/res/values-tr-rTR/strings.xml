@@ -963,6 +963,7 @@
     <string name="status_bar_toggle_reboot">Yeniden Başlat</string>
     <string name="status_bar_toggle_shutdown">Kapat</string>
     <string name="status_bar_toggle_privacy_mode">Gizlilik</string>
+    <string name="status_bar_toggle_screenshot">Screenshot</string>
     <string name="settings_separator">,</string>
     <string name="incoming_call_vibrate_hint">Arama</string>
     <string name="notification_vibrate_hint">Bildirim</string>

@@ -515,10 +515,6 @@
     <string name="voice_quality_ui_values_clear">Temizle</string>
     <string name="voice_quality_ui_values_crisp">Canlı</string>
     <string name="voice_quality_ui_values_bright">Parlak</string>
-    <string name="prefered_network_type_pref_entries_3g_prefered">3G öncelikli</string>
-    <string name="prefered_network_type_pref_entries_auto">Otomatik</string>
-    <string name="prefered_network_type_pref_entries_only_2g">Sadece 2G (Güç tasarrufu)</string>
-    <string name="prefered_network_type_pref_entries_only_3g">Sadece 3G</string>
     <string name="pin_progress_set_icc_lock">Setting icc lock state…</string>
     <string name="pin_progress_set_fdn_lock">Setting FDN lock state…</string>
     <string name="pin_progress_change_pin">PIN Değiştiriliyor...</string>
@@ -641,4 +637,8 @@
     <string name="number_format_error_message">%s sadece rakam olabilir</string>
     <string name="jituan_number_format_error_message">%s sadece rakam ve joker karakterler olabilir</string>
     <string name="enter_edit_mode">Sil</string>
+    <string name="prefered_network_type_pref_entries_3g_prefered">3G öncelikli</string>
+    <string name="prefered_network_type_pref_entries_auto">Otomatik</string>
+    <string name="prefered_network_type_pref_entries_only_2g">Sadece 2G (güç-tasarrufu)</string>
+    <string name="prefered_network_type_pref_entries_only_3g">Sadece 3G</string>
 </resources>
