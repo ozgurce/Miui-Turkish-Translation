@@ -36,7 +36,6 @@
     <string name="theme_component_title_all">Temalar</string>
     <string name="apply_theme_no_select_message">Bileşenlerden seç!</string>
     <string name="apply_lockscreen_paper_tips">Kişisel kilitleme ekranı halen kullanımda, yeni duvarkağıdı aktif olmayabilir.</string>
-    <string name="apply_theme_font_tips">Yeni font kütüphanesi bazı bölümlerde görünüm bozukluklarına sebep olabilir, bu sorunuçözmek için yeniden başlatın.</string>
     <string name="play_all_audio_effect">çalınma (toplam: %1$s)</string>
     <string name="theme_import">SD Karttan tema al</string>
     <string name="theme_select_others">Diğer</string>

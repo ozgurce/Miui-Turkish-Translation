@@ -128,6 +128,13 @@
     <string name="preferred_network_mode_title">Ağ modu</string>
     <string name="preferred_network_mode_summary">Ağ işletim modunu değiştirme</string>
     <string name="preferred_network_mode_dialogtitle">Tercih edilen şebeke modu</string>
+    <string name="preferred_network_mode_cdma">CDMA</string>
+    <string name="preferred_network_mode_gsm_umts">GSM/WCDMA</string>
+    <string name="preferred_network_type_entries_global">Global</string>
+    <string name="preferred_network_type_entries_3g_preferred">3G öncelikli</string>
+    <string name="preferred_network_type_entries_auto">Otomatik</string>
+    <string name="preferred_network_type_entries_only_2g">Sadece 2G (güç-tasarrufu)</string>
+    <string name="preferred_network_type_entries_only_3g">Sadece 3G</string>
     <string name="data_enabled">Veri açık</string>
     <string name="data_enable_summary">Mobil şebeke üzerinden veri erişimi etkin</string>
     <string name="roaming">Veri dolaşımı</string>
@@ -631,14 +638,11 @@
     <string name="check_nothing">Hiçbirini seçme</string>
     <string name="deleting_message">siliniyor...</string>
     <string name="confirm_delete_message_title">You will delete the selected %d custom attribution messages.</string>
+    <string name="enable_telocation_title">Show attribution for number</string>
     <string name="pref_custom_location_title">Customize attribution</string>
     <string name="pref_custom_location_summary">Customize regional attribution and number attribution</string>
     <string name="pref_edit_custom_location_title">Düzenle</string>
     <string name="number_format_error_message">%s sadece rakam olabilir</string>
     <string name="jituan_number_format_error_message">%s sadece rakam ve joker karakterler olabilir</string>
     <string name="enter_edit_mode">Sil</string>
-    <string name="prefered_network_type_pref_entries_3g_prefered">3G öncelikli</string>
-    <string name="prefered_network_type_pref_entries_auto">Otomatik</string>
-    <string name="prefered_network_type_pref_entries_only_2g">Sadece 2G (güç-tasarrufu)</string>
-    <string name="prefered_network_type_pref_entries_only_3g">Sadece 3G</string>
 </resources>

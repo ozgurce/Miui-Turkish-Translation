@@ -2,6 +2,7 @@
 <resources>
     <string name="app_name">Sistem Güncelleyici</string>
     <string name="apply_now_button_text">Şimdi Güncelle</string>
+    <string name="view_details">Detayları gör</string>
     <string name="download_whole_rom">Güncellemeyi indir(%s)</string>
     <string name="download_ota_rom">OTA güncellemeyi indir(%s)</string>
     <string name="apply_later_button_text">Sonra Güncelle</string>
@@ -57,9 +58,11 @@
     <string name="no_updates_warning2">Güncelleme bulunamadı, güncelleme mevcut olduğunda size bilgi vereceğiz</string>
     <string name="new_updates_found_title">Güncelleme bulundu!</string>
     <string name="new_update_content_title">Yeni sürüm bulundu!</string>
-    <string name="update_success_title">Tebrikler!</string>
-    <string name="update_success_body_title">Başarılı bir şekilde güncellendi</string>
-    <string name="exception_while_downloading">İndirme hatası</string>
+    <string name="new_update_downloading_body">Yeni sürüm indiriliyor:%s</string>
+    <string name="new_update_download_complete_body">Yeni sürüm mevcut:%s</string>
+    <string name="update_success_title">Tebrikler! Güncelleme başarılı.</string>
+    <string name="update_success_body">Başarılı bir şekilde güncellendi</string>
+    <string name="exception_while_downloading">Güncelleme indirilirken hata oluştu.</string>
     <string name="new_updates_found_body">Yeni sürüm bulundu!</string>
     <string name="new_updates_found_notification_title">Yeni sistem güncellemesi, lütfen yükseltin!</string>
     <string name="network_error">Bağlantı kurulamıyor, ağ problemi veya sunucu meşgul</string>
@@ -83,6 +86,8 @@
     <string name="emegency_update_helper">OTA yaması yüklendikten sonra sistem yeniden başlamayı gerektirebilir</string>
     <string name="emegency_update_size">Boyut: %s</string>
     <string name="sign_in_info">Bu güncelleme senin %1$s\n%2$s kullanıcılar %3$s kere indirmişler</string>
+    <string name="sign_in_info_total_more">Your update ranking is %1$s\nOver %2$s users have signed in for MIUI %3$s</string>
+    <string name="sign_in_info_rank_more">Your update ranking is after %1$s\nOver %2$s users have signed in for MIUI %3$s</string>
     <string name="sign_in_add_account_helper">Telefonunuz MIUI hesabı ile giriş yapılmamış, puan kazanmak için giriş yapın</string>
     <string name="move_data_to_sdcard_title">Verileri SD karta taşı</string>
     <string name="move_data_to_sdcard_not_enough_space_message">%dM büyüklüğünde veri taşınması gerekiyor, ancak SD Kartta yeterli alan yok.</string>
@@ -92,4 +97,5 @@
     <string name="install_whole_rom">Güncelleme paketinin tamamını indirmenizi öneririz</string>
     <string name="check_update_policy">Güncelleme ayarlarını kontrol et</string>
     <string name="check_update_when_wifi_available">Sadece WIFI bağlantısı kullan</string>
+    <string name="install_file_explorer">please install file explorer</string>
 </resources>

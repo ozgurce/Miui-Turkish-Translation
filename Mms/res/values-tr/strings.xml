@@ -339,8 +339,6 @@
     <string name="pref_edit_smsc_address">SMS merkezi numarası</string>
     <string name="pref_title_filter_phone">Sabit numara filtresi</string>
     <string name="pref_summary_filter_phone">Telefon numaralarını filtrelenmesine izin verir</string>
-    <string name="pref_title_allow_si_sl_push">WAP push\'a izin ver</string>
-    <string name="pref_summary_allow_si_sl_push">WAP push mesajlarını almaya izin ver (SI/SL)</string>
     <string name="pref_key_append_signature_title">İmza</string>
     <string name="pref_key_append_signature_summary">İmza bilgisi otomatik olarak mesaj sonuna eklenir</string>
     <string name="pref_key_edit_signature_title">İmza düzenle</string>
